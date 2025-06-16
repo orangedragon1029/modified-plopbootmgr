@@ -1,10 +1,10 @@
-* .img for floppy
-* .iso for cd/dvd
+<p>.img for floppy</p>
+<p>.iso for cd/dvd</p>
 
-software used: 
-used plpcfgbt 0.11 (https://download.plop.at/files/bootmngr/plpcfgbt-0.11.zip) to modify plpbt.bin
-used winimage to edit plpbt.img 
-used plpbt-createiso (https://download.plop.at/files/bootmngr/plpbt-createiso.zip) to create plpbt.iso
+<p>software used: </p> 
+<p>used plpcfgbt 0.11 (https://download.plop.at/files/bootmngr/plpcfgbt-0.11.zip) to modify plpbt.bin</p>p>
+<p></p>used winimage to edit plpbt.img</p>
+<p></p>used plpbt-createiso (https://download.plop.at/files/bootmngr/plpbt-createiso.zip) to create plpbt.iso</p>
 
 changes:
 - disabled windows zoom animation
