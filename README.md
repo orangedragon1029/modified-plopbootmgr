@@ -1,9 +1,11 @@
 * .img for floppy
 * .iso for cd/dvd
 
+software used: 
 used plpcfgbt 0.11 (https://download.plop.at/files/bootmngr/plpcfgbt-0.11.zip) to modify plpbt.bin
 used winimage to edit plpbt.img 
 used plpbt-createiso (https://download.plop.at/files/bootmngr/plpbt-createiso.zip) to create plpbt.iso
+
 changes:
 - disabled windows zoom animation
 - changed video mode to 80x50 (text mode)
