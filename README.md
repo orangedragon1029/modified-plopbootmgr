@@ -1,7 +1,8 @@
-.img for floppy
-.iso for cd/dvd
+* .img for floppy
+* .iso for cd/dvd
 
 used plpcfgbt 0.11 to modify plpbt.bin
+
 changes:
 - disabled windows zoom animation
 - changed video mode to 80x50 (text mode)
